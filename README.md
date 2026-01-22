@@ -153,10 +153,4 @@ This helped keep the project organized and on schedule despite its size.
 
 ---
 
-## Notes
-Due to company confidentiality:
-- The project is not publicly accessible
-- No live demo is available
-- Screenshots shown are from design files (Figma) used during development
 
-This documentation reflects the real-world implementation and responsibilities involved in building a production-level admin panel frontend.
